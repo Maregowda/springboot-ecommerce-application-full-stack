@@ -5,6 +5,9 @@ Ecommerce Application is a Springboot , Spring Data JPA and AngularJS web app al
 * Adding products into cart
 * Placing order and saving to database
 * Generating order tracking number
+* This is Angular + SpringBoot fullstack project this is a fullstack Ecommerce project demonstrating production ready Ecommerce website. it has been tested in production, for demonstration it is to be tested in localhost
+* It is a Single page application with massive scalability is requirement for a lot of business solutions, This makes Angular + Spring Boot, a perfect choice
+* This Project implements end to end Rest API's using Spring Boot and MySQL as Database. then the data is successfully populated with the help of angular frontend.
 # Tech Stack
 Frontned: AngularJS and Boostrap 4 <br>
 Spring Modules
